@@ -1,1 +1,9 @@
 Que es HTML: un lenguaje de marcado
+jpg: pierde calidad
+Explicacion HTML:
+  DOCTYPE: INDICA tecnologia que se va a usar.
+  <html> para abrir y cerrar etiqueta </html>.
+    luego va el <head> con </head>.(Metainformación)
+    <body> y </body>.
+    Para hacer comentarios: <!--blabla-->.
+    
